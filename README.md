@@ -6,7 +6,6 @@
 
 ## Required Libraries/Modules:
 - Beautifulsoup
-- Requests
 
 ## License
 - License under [GNU](https://github.com/amandp13/Web-Scrapping/blob/main/LICENSE)
